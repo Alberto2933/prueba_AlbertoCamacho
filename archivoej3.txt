@@ -1,1 +1,2 @@
 Texto para el ejercicio 3
+Modificamos el archivo para que sea conflictivo
