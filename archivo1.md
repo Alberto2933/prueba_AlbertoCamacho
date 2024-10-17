@@ -33,4 +33,5 @@ por ultimo subiremos los cambios
 --- 
 
 veremos el resultado a continuacion 
-![alt text](Fotos3/imagen_3432)
+
+![alt text](fotos3/imagen_3432.png)
